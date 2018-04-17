@@ -57,7 +57,7 @@
 		"NL": "Reset",
 		"DE": "Reset",
 		"EN": "Reset",
-		"PT-BR": "TRANSLATE"
+		"PT-BR": "Resetar"
 	},
 	"alone" : {
 		"NL": "Alleen",
@@ -100,7 +100,7 @@
 		"NL": "TRANSLATE",
 		"DE": "Zuerst für eine Uhrzeit abstimmen!",
 		"EN": "Vote for a time first!",
-		"PT-BR": "TRANSLATE"
+		"PT-BR": "Antes, vote por um horário"
 	},
 	"weekday_1" : {
 		"NL": "Maandag",
@@ -496,19 +496,19 @@
 		"NL": "Selecteer de <b>datum</b> van de raid:",
 		"DE": "<b>Datum</b> des Raids auswählen:",
 		"EN": "Select the <b>date</b> of the raid:",
-		"PT-BR": "Select the <b>date</b> of the raid:"
+		"PT-BR": "Escolha a <b>data</b> da raid:"
 	},
 	"raid_select_hour" : {
 		"NL": "Selecteer het <b>uur</b> van de raid:",
 		"DE": "<b>Stunde</b> des Raids auswählen:",
 		"EN": "Select the <b>hour</b> of the raid:",
-		"PT-BR": "Select the <b>hour</b> of the raid:"
+		"PT-BR": "Escolha o <b>horário</b> da raid:"
 	},
 	"raid_select_start_time" : {
 		"NL": "Selecteer de <b>start tijd</b> van de raid:",
 		"DE": "<b>Startzeit</b> des Raids auswählen:",
 		"EN": "Select the <b>start time</b> of the raid:",
-		"PT-BR": "Select the <b>start time</b> of the raid:"
+		"PT-BR": "Escolha o <b>horário de início</b> da raid:"
 	},
 	"minutes" : {
 		"NL": "minuten",
@@ -598,13 +598,13 @@
 		"NL": "Raid bazen lijst aanpassen",
 		"DE": "Raid Boss Pokemon anzeigen und bearbeiten",
 		"EN": "List and edit raid boss pokemon",
-		"PT-BR": "TRANSLATE"
+		"PT-BR": "Listar e editar Pokémon chefes de raid"
 	},
 	"pokedex_raid_pokemon" : {
 		"NL": "Lijst met Pokemon raid bazen",
 		"DE": "Raid Boss Pokemon anzeigen",
 		"EN": "List raid boss pokemon",
-		"PT-BR": "TRANSLATE"
+		"PT-BR": "Listar Pokémon chefes de raid "
 	},
 	"pokedex_list_of_all" : {
 		"NL": "Lijst met alle pokemon.",
@@ -622,25 +622,25 @@
 		"NL": "Selecteer een Pokemon Raid baas om hem te bewerken",
 		"DE": "Zum Bearbeiten Pokemon Raid Boss auswählen:",
 		"EN": "Select pokemon raid boss to edit:",
-		"PT-BR": "TRANSLATE"
+		"PT-BR": "Escolha o Pokémon chefe de raid para editar:"
 	},
 	"pokedex_raid_level" : {
 		"NL": "Raid level",
 		"DE": "Raid Level",
 		"EN": "Raid level",
-		"PT-BR": "TRANSLATE"
+		"PT-BR": "Nível de Raid"
 	},
 	"pokedex_new_raid_level" : {
 		"NL": "Nieuw Raid level",
 		"DE": "Neues Raid Level",
 		"EN": "New raid level",
-		"PT-BR": "TRANSLATE"
+		"PT-BR": "Novo nível de Raid"
 	},
 	"pokedex_select_action" : {
 		"NL": "Selecteer een eigenschap om deze aan te passen:",
 		"DE": "Eigenschaft zum Ändern auswählen:",
 		"EN": "Select feature to be changed:",
-		"PT-BR": "TRANSLATE"
+		"PT-BR": "Escolha característica para ser alterada:"
 	},
 	"pokedex_cp" : {
 		"NL": "CP:",
@@ -652,49 +652,49 @@
 		"NL": "Min CP",
 		"DE": "Min WP",
 		"EN": "Min CP",
-		"PT-BR": "Min CP"
+		"PT-BR": "CP mínimo"
 	},
 	"pokedex_max_cp" : {
 		"NL": "Max CP",
 		"DE": "Max WP",
 		"EN": "Max CP",
-		"PT-BR": "Max CP"
+		"PT-BR": "CP máximo"
 	},
 	"pokedex_min_weather_cp" : {
 		"NL": "Min boosted CP",
 		"DE": "Min boosted WP",
 		"EN": "Min boosted CP",
-		"PT-BR": "TRANSLATE"
+		"PT-BR": "CP mínimo aumentado"
 	},
 	"pokedex_max_weather_cp" : {
 		"NL": "Max boosted CP",
 		"DE": "Max boosted WP",
 		"EN": "Max boosted CP",
-		"PT-BR": "TRANSLATE"
+		"PT-BR": "CP máximo aumentado"
 	},
 	"pokedex_current_cp" : {
 		"NL": "Actuele CP:",
 		"DE": "Aktuelle WP:",
 		"EN": "Current CP:",
-		"PT-BR": "TRANSLATE"
+		"PT-BR": "CP atual:"
 	},
 	"pokedex_weather" : {
 		"NL": "Weer",
 		"DE": "Wetter",
 		"EN": "Weather",
-		"PT-BR": "TRANSLATE"
+		"PT-BR": "Clima"
 	},
 	"pokedex_current_weather" : {
 		"NL": "Actuele weer:",
 		"DE": "Aktuelles Wetter:",
 		"EN": "Current weather:",
-		"PT-BR": "TRANSLATE"
+		"PT-BR": "Clima atual:"
 	},
 	"pokedex_new_weather" : {
 		"NL": "Nieuw weer:",
 		"DE": "Neues Wetter:",
 		"EN": "New weather:",
-		"PT-BR": "TRANSLATE"
+		"PT-BR": "Novo clima:"
 	},
 	"how_long_raid" : {
 		"NL": "Hoe lang <b>duurt</b> de Raid?",
